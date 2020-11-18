@@ -1,0 +1,7 @@
+#!/bin/sh
+
+a=20
+b=10
+READ name
+for t in 0 1 2"
+done
